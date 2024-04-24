@@ -32,21 +32,8 @@ A communication module for openmrs to help health care workers communicate effec
         ◦ Logging of all communication activities, including message exchanges, user interactions, and system events, to maintain an audit trail for compliance purposes and facilitate reporting on communication metrics.
 
 #User Interface:
-        ◦ Describe the user interface of the communication module, including:
-            ▪ Login screen: How users authenticate and access the module.
-            ▪ Message composition: How users compose and send messages.
-            ▪ Message inbox: How users view and manage received messages.
-            ▪ Notifications: How users receive and interact with notifications.
-        ◦ Include screenshots or wireframes to visually represent the user interface.
 
 # Security and Privacy:
-        ◦ Outline the security measures implemented to protect patient information and ensure secure communication.
-        ◦ Describe how the communication module complies with relevant data privacy regulations, such as HIPAA or GDPR.
+# Deployment and Installation:
+# Conclusion:
        
-       Deployment and Installation:
-        ◦ Provide step-by-step instructions for deploying and installing the communication module in a health facility environment.
-        ◦ Include system requirements, dependencies, and any pre-requisites for installation.
-       
-       Conclusion:
-        ◦ Summarize the key points covered in the documentation.
-        ◦ Encourage users to provide feedback and suggestions for improving the communication module.
