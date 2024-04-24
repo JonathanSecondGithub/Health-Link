@@ -2,7 +2,7 @@
 A communication module for openmrs to help health care workers communicate effectively
 
 # System Overview:
-# Technical Overview
+## Technical Overview
 - OpenMRS is a framework built upon Java and other related frameworks. It is based on a modular architecture which consists of a core application and optional modules which provide additional functionality to the core workflows.
 - The key architectural components of the OpenMRS core can be depicted as follows:
   ![capture5](https://github.com/JonathanSecondGithub/Health-Link/assets/117745295/23beb21a-b02d-47d9-8251-4be82208a854)
