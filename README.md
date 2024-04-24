@@ -9,7 +9,7 @@ A communication module for openmrs to help health care workers communicate effec
 
 - The backbone of OpenMRS is the core API. This API has methods for all of the basic functions like adding/updating a patient, adding/updating a concept, etc. These methods are provided in services. There are classes named PatientService, ConceptService, EncounterService, ObsService, etc. The Data Model groups the database tables into "domains." Each domain is a separate colored box. The breakdown of domains/tables is essentially a visual representation of the service separation.
 
-#Functionality
+# Functionality
 - Real-time Messaging:
         ◦ Ability for users to send and receive messages instantly, allowing for quick communication between healthcare providers.
 - Notifications:
