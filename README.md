@@ -31,8 +31,7 @@ A communication module for openmrs to help health care workers communicate effec
 - Audit Trails and Compliance Reporting:
         ◦ Logging of all communication activities, including message exchanges, user interactions, and system events, to maintain an audit trail for compliance purposes and facilitate reporting on communication metrics.
 
-#User Interface:
-
+# User Interface:
 # Security and Privacy:
 # Deployment and Installation:
 # Conclusion:
