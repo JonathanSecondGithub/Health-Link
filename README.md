@@ -30,9 +30,13 @@ A communication module for openmrs to help health care workers communicate effec
         ◦ Integration with other healthcare IT systems, such as EHR, laboratory information systems (LIS), or radiology systems, to facilitate seamless exchange of information and streamline clinical workflows.
 - Audit Trails and Compliance Reporting:
         ◦ Logging of all communication activities, including message exchanges, user interactions, and system events, to maintain an audit trail for compliance purposes and facilitate reporting on communication metrics.
-
+  ![Capture4](https://github.com/JonathanSecondGithub/Health-Link/assets/117745295/51ca53af-52da-4208-8fef-82d7804ea617)
 # User Interface:
+![Capture7](https://github.com/JonathanSecondGithub/Health-Link/assets/117745295/dfb99974-2fb5-490e-95ac-882e9e8966d9)
+![Capture6](https://github.com/JonathanSecondGithub/Health-Link/assets/117745295/da333e10-2678-4e5b-9f0b-71e3003d2a88)
+![Capture8](https://github.com/JonathanSecondGithub/Health-Link/assets/117745295/e43e7f44-a792-42f0-afc3-9c1821e16cb2)
 # Security and Privacy:
 # Deployment and Installation:
 # Conclusion:
        
+
